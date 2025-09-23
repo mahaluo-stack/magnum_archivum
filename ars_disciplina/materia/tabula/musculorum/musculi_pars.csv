@@ -1,0 +1,42 @@
+nomen_musculi;nomen_musculi_pars;descriptio
+deltoid;anterior;front deltoid
+deltoid;lateral;side deltoid
+deltoid;posterior;rear deltoid
+trapezius;upper;trapz
+trapezius;lower;trapz
+pectoralis major;clavicular head;upper chest
+pectoralis major;sternal head;lower chest
+erector spinae;ilicostalis;back, spine
+erector spinae;longissimus;back, spine
+erector spinae;spinalis;back, spine
+biceps;long head;bicep peak
+biceps;short head;bicep inside
+biceps;brachialis;bicep outside, between bicep and tricep
+triceps;long head;tricep, big part
+triceps;lateral head;tricep side
+triceps;medial head;tricep bottom
+flexores carpi;radialis;flexes and abducts wrist
+flexores carpi;ulnaris;flexes and adducts wrist
+extensores carpi;longus;extends and abducts wrist
+extensores carpi;brevis;extends and abducts wrist
+extensores carpi;ulnaris;extends and adducts wrist
+pronator;teres;pronates forearm
+pronator;quadratus;deep pronator of forearm
+quadricep;rectus femoris;quad
+quadricep;vastus medialis;quad
+quadricep;vastus lateralis;quad
+quadricep;vastus intermedius;quad
+hamstring;biceps femoris;hamstring
+hamstring;semitendinosus;hamstring
+hamstring;semimembranosus;hamstring
+adductor;adductor longis;hip
+adductor;adductor brevis;hip
+adductor;adductor magnus;hip
+iliopsoas;iliacus;hip
+iliopsoas;psoas major;hip
+gluteal muscles;gluteus maximus;glute
+gluteal muscles;gluteus medius;glute
+gluteal muscles;gluteus minimus;glute
+gastrocnemicus;lateral head;calf
+gastrocnemicus;medial head;calf
+iliopsoas;psoas minor;hip
