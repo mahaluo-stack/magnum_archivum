@@ -1,34 +1,34 @@
 nomen_musculi_regio;nomen_musculi;descriptio
-cervix;sternocleidomastoid;neck side
-cervix;splenius capitis;neck
-cervix;semispinalis capitis;neck
-umerus;deltoid;shoulder
-umerus;rotator cuff;shoulder
-dorsum;teres major;upper back
-dorsum;trapezius;shoulders, back
-dorsum;latissimus dorsi;back
-dorsum;rhomboid;middle back
-dorsum;erector spinae;lower back
-pectus;pectoralis major;chest
-pectus;pectoralis minor;chest
-brachium;biceps;arm
-brachium;triceps;arm
-antebrachium;flexores carpi;
-antebrachium;extensores carpi;
-antebrachium;pronator;
-antebrachium;supinator;supinates the forearm
-antebrachium;brachioradialis;flexes the forearm at elbow
+neck;sternocleidomastoid;neck side
+neck;splenius capitis;neck
+neck;semispinalis capitis;neck
+shoulder;deltoid;shoulder
+shoulder;rotator cuff;shoulder
+back;teres major;upper back
+back;trapezius;shoulders, back
+back;latissimus dorsi;back
+back;rhomboid;middle back
+back;erector spinae;lower back
+chest;pectoralis major;chest
+chest;pectoralis minor;chest
+upper arm;biceps;arm
+upper arm;triceps;arm
+forearm;flexores carpi;
+forearm;extensores carpi;
+forearm;pronator;
+forearm;supinator;supinates the forearm
+forearm;brachioradialis;flexes the forearm at elbow
 abdomen;rectus abdominis;abs
 abdomen;external obliques;obliques
 abdomen;internal obliques;obliques
 abdomen;transverse abdominis;core
-coxae;adductor;hip
-coxae;iliopsoas;hip flexors
-femur;quadricep;thigh
-femur;sartorius;tailors muscle, thigh
-glutaeus;hamstring;thigh
-glutaeus;gracilis;thigh
-glutaeus;gluteal muscles;glutes
-crus;gastrocnemicus;calf
-crus;soleus;calf
-crus;tibialis anterior;shin
+hip;adductor;hip
+hip;iliopsoas;hip flexors
+thigh;quadricep;front of the thigh
+thigh;sartorius;tailors muscle, front thigh
+thigh;hamstring;back of the thigh
+thigh;gracilis;thigh
+glutes;gluteal muscles;glutes
+calf;gastrocnemicus;calf
+calf;soleus;calf
+calf;tibialis anterior;shin

@@ -16,5 +16,6 @@ GO
 INSERT INTO dbo.schemata_catalogus (nomen_archivum, nomen_schemata)
 VALUES ('ars_disciplina', 'musculorum'),
        ('ars_disciplina', 'instrumentorum'),
-       ('ars_disciplina', 'disciplinarum');
+       ('ars_disciplina', 'disciplinarum'),
+       ('ars_disciplina', 'actorum');
 GO
