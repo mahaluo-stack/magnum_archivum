@@ -11,6 +11,7 @@
 # SSIS deployment/build files
 *.ispac      # The compiled deployment file for SSIS project
 *.dtproj.user
+*.database
 *.cache
 *.bak
 *.log
