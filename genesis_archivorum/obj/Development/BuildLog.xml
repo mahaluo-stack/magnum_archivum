@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
-    <Name>genesis_archivorum</Name>
-    <LastWriteTime>2025-10-03T22:06:42.5674249Z</LastWriteTime>
+    <Name>Genesis Archivorum</Name>
+    <LastWriteTime>2025-10-03T22:44:08.1501687Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Ordo Magnum.dtsx</Name>
-      <LastWriteTime>2025-10-03T22:07:39.3509462Z</LastWriteTime>
+      <LastWriteTime>2025-10-03T22:36:51.3650091Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -23,7 +23,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Structura Ars Disciplina.dtsx</Name>
-      <LastWriteTime>2025-10-03T22:02:26.4238901Z</LastWriteTime>
+      <LastWriteTime>2025-10-03T22:40:52.6859268Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

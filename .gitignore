@@ -1,0 +1,20 @@
+# Visual Studio temporary files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+/bin/
+/obj/
+
+# SSIS deployment/build files
+*.ispac      # The compiled deployment file for SSIS project
+*.dtproj.user
+*.cache
+*.bak
+*.log
+
+# Backup or temp files
+*.tmp
+~$*
