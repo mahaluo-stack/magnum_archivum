@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Ars Disciplina"
+  DTS:DTSID="{6B48AD49-7B20-4CCB-8F1A-1274A22A6D54}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=ars_disciplina;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-genesis_archivorum-{6B48AD49-7B20-4CCB-8F1A-1274A22A6D54}LocalHost.ars_disciplina;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

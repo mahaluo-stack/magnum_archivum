@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Populatio Ars Disciplina.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|solutionrelative:Populatio Ars Disciplina.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Structura Ars Disciplina.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|solutionrelative:Structura Ars Disciplina.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\fundatio.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|solutionrelative:fundatio.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Ordo Magnum.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|solutionrelative:Ordo Magnum.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Project.params||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{314E7D13-8845-0157-3E84-96CA009BB085}|genesis_archivorum.dtproj|solutionrelative:Project.params||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Populatio Ars Disciplina.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Populatio Ars Disciplina.dtsx",
+              "RelativeDocumentMoniker": "Populatio Ars Disciplina.dtsx",
+              "ToolTip": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Populatio Ars Disciplina.dtsx [Design]",
+              "RelativeToolTip": "Populatio Ars Disciplina.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-10-02T18:31:36.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Structura Ars Disciplina.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Structura Ars Disciplina.dtsx",
+              "RelativeDocumentMoniker": "Structura Ars Disciplina.dtsx",
+              "ToolTip": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Structura Ars Disciplina.dtsx [Design]",
+              "RelativeToolTip": "Structura Ars Disciplina.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-10-02T18:26:45.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.params [Design]",
+              "DocumentMoniker": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Project.params",
+              "RelativeDocumentMoniker": "Project.params",
+              "ToolTip": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Project.params [Design]",
+              "RelativeToolTip": "Project.params [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-30T19:48:33.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ordo Magnum.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Ordo Magnum.dtsx",
+              "RelativeDocumentMoniker": "Ordo Magnum.dtsx",
+              "ToolTip": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\Ordo Magnum.dtsx [Design]",
+              "RelativeToolTip": "Ordo Magnum.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-09-30T19:47:45.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fundatio.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\fundatio.dtsx",
+              "RelativeDocumentMoniker": "fundatio.dtsx",
+              "ToolTip": "C:\\Users\\maxha\\Documents\\magnum_archivum\\genesis_archivorum\\fundatio.dtsx [Design]",
+              "RelativeToolTip": "fundatio.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-09-30T19:44:29.915Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

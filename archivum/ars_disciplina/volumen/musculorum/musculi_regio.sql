@@ -1,4 +1,4 @@
-USE musculorum;
+USE ars_disciplina;
 
 DROP TABLE IF EXISTS musculorum.musculi_regio;
 CREATE TABLE musculorum.musculi_regio

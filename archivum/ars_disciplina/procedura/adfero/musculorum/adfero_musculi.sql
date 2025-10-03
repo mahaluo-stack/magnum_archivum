@@ -1,4 +1,4 @@
-USE musculorum
+USE ars_disciplina
 GO
 
 CREATE OR ALTER PROCEDURE musculorum.adfero_musculi @via_tabula VARCHAR(4000)
@@ -7,7 +7,7 @@ BEGIN
     BEGIN TRANSACTION
         SET NOCOUNT ON;
 
-        DECLARE @tabula VARCHAR(MAX) = @via_tabula + '\musculi.csv';
+        DECLARE @tabula VARCHAR(MAX) = @via_tabula + '\musculorum\musculi.csv';
         DECLARE @scriptum NVARCHAR(MAX);
 
         DROP TABLE IF EXISTS #gradus_musculi;
