@@ -7,5 +7,5 @@ CREATE TABLE musculorum.musculi
     musculi_regio_identitas INT           NOT NULL,
     nomen_musculi           VARCHAR(50)   NOT NULL,
     descriptio              VARCHAR(4000) NULL,
-    creatio                 DATETIME2(0) DEFAULT SYSUTCDATETIME()
+    creatio                 DATETIME2(0) DEFAULT SYSDATETIME()
 );

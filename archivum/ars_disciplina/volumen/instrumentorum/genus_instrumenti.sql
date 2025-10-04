@@ -5,5 +5,5 @@ CREATE TABLE instrumentorum.genus_instrumenti
 (
     genus_instrumenti_identitas INT IDENTITY PRIMARY KEY,
     nomen_genus_instrumenti     VARCHAR(50) NOT NULL,
-    creatio                     DATETIME2(0) DEFAULT SYSUTCDATETIME()
+    creatio                     DATETIME2(0) DEFAULT SYSDATETIME()
 );
